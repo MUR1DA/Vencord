@@ -78,7 +78,7 @@ function fakeDeafenToggleButton() {
 
     return (
         <Button
-            tooltipText="Fake Deafen"
+            tooltipText="MUTE ALL DISCORD SOUNDS"
             icon={makeDeafenIcon(fakeD)}
             role="switch"
             aria-checked={!fakeD}
